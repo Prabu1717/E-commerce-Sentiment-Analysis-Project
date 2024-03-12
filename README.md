@@ -1,7 +1,5 @@
 # E-commerce-Sentiment-Analysis-Project
 
-# E-commerce Sentiment Analysis Project
-
 ## Overview
 
 This repository contains code and resources for an e-commerce sentiment analysis project aimed at improving the user experience based on customer feedback. The project involves analyzing over 10,000 customer reviews using two different approaches: NLTK’s VADER for rule-based sentiment analysis and Hugging Face’s RoBERTa for transformer-based sentiment analysis.
